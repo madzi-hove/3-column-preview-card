@@ -70,7 +70,7 @@ a img, :link img, :visited img {
 
 .text__heading {
     width: 60%;
-    font-size: 2em;
+    font-size: 3em;
     text-transform: uppercase;
 }
 
@@ -147,7 +147,7 @@ a img, :link img, :visited img {
     .inner-box {
         flex-direction: row;
         max-width: 65%;
-        height: 70%;
+        height: 60%;
     }
 
     .icon__img {
