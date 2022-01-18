@@ -21,7 +21,7 @@ a img, :link img, :visited img {
       justify-content: center;
   }
 
-/* Start of outer-box */
+
 .outer-box {
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ a img, :link img, :visited img {
     background-color: hsl(0, 0%, 95%);
 
 }
-/* Start of inner-box */
+
 .inner-box {
     display: flex;
     flex-direction: column;
@@ -63,8 +63,6 @@ a img, :link img, :visited img {
 .inner-box--very-dark-cyan {
     background-color: hsl(179, 100%, 13%);
 }
-
-
 
 .icon {
     width: 60%;
@@ -156,9 +154,4 @@ a img, :link img, :visited img {
         margin-top: 25%;
     }
 
-    
-
-    /* .inner-box__item {
-        flex-direction: row;
-    } */
 }
